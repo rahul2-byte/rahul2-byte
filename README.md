@@ -1,4 +1,4 @@
- # Hi, I’m Rahul Singh 👋
+ # Hi, I’m Rahul Singh(@rahul2-byte) 👋
  
  
  ## An Aspiring Data Scientist. 
@@ -10,11 +10,12 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
+
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul2-byte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/RahulCh77664665
 [linkedin]: https://www.linkedin.com/in/rahul-chand-21a26618a/
