@@ -6,7 +6,7 @@
  
 - 👀 I’m interested in Ml & Data Science.
 - 🌱 I’m currently learning Ml
-- 💞️ I’m looking to collaborate on Ml Projects
+- 💞️ I’m looking to collaborate on ML Projects
 
 
 ### Connect with me:
