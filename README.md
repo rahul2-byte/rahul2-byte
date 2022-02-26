@@ -4,8 +4,8 @@
  ## An Aspiring Data Scientist. 
  
  
-- 👀 I’m interested in Ml & Data Science.
-- 🌱 I’m currently learning Ml
+- 👀 I’m interested in ML & Data Science.
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML Projects
 
 
